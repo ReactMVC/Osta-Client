@@ -24,7 +24,7 @@ npm install
 ```
 
 4. Replace API address:
-The backend address is located in the path `src/Home.js`. In line 60, replace `https://osta.onrender.com` with your backend address. Get the backend source from: [https://github.com/ReactMVC/Osta-Server](https://github.com/ReactMVC/Osta-Server)
+The backend address is located in the path `src/Home.js`. In line 60, replace `https://osta.onrender.com` with your backend address. Get the backend source from: [Osta-Server](https://github.com/ReactMVC/Osta-Server)
 
 ## Available Scripts
 
