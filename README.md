@@ -14,7 +14,7 @@ git clone https://github.com/ReactMVC/Osta-Client.git
 2. Navigate into the project directory:
 
 ```bash
-cd ChatGPT-Client
+cd Osta-Client
 ```
 
 3. Install the dependencies:
